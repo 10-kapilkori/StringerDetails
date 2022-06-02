@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StringerListTest</string>
+    <string name="stringers">Stringers</string>
+    <string name="stringers_add">Add Stringers</string>
+    <string name="stringers_delete">Stringer Delete</string>
+    <string name="stringers_update">Stringer Update</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address">Address</string>
+    <string name="stringerId">Stringer ID</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="number">Phone Number</string>
+    <string name="start_time">Starting Time</string>
+    <string name="end_time">Ending Time</string>
+    <string name="password">Password</string>
+    <string name="shopId">Shop ID</string>
+    <string name="save">Save</string>
+    <string name="insertedBy">Inserted By</string>
+    <string name="delete_stringer">Delete Stringer</string>
+    <string name="delete_stringer_msg">Please Enter a Stringer Id to Delete Stringer</string>
+    <string name="delete">Delete</string>
+    <string name="add_update_stringer">Add-Update Stringer</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/stringer_list"
+        android:icon="@drawable/ic_baseline_remove_red_eye_24"
+        android:iconTint="@color/white"
+        android:title="@string/stringers"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/stringer_add"
+        android:icon="@drawable/ic_baseline_person_add_alt_1_24"
+        android:iconTint="@color/white"
+        android:title="@string/stringers_add"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/stringer_delete"
+        android:icon="@drawable/ic_baseline_delete_24"
+        android:iconTint="@color/white"
+        android:title="@string/stringers_delete"
+        app:showAsAction="ifRoom" />
+</menu>
