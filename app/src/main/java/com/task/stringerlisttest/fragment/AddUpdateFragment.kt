@@ -90,6 +90,9 @@ class AddUpdateFragment : Fragment() {
                             insertedBy
                         )
                     )
+
+                    Toast.makeText(inflater.context, "Adding Files Not Working", Toast.LENGTH_SHORT)
+                        .show()
                 } else {
                     viewModel.successMutableLiveData.observe(viewLifecycleOwner) {
                         addUpdatePb.visibility = View.INVISIBLE
