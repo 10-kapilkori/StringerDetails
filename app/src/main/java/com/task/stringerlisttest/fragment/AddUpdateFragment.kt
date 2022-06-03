@@ -87,7 +87,8 @@ class AddUpdateFragment : Fragment() {
                             startTime,
                             "1",
                             password,
-                            insertedBy
+                            insertedBy,
+                            null
                         )
                     )
 
